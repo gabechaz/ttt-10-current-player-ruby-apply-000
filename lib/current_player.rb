@@ -7,3 +7,4 @@ def current_player(array)
     
     end
   end
+end
