@@ -1,6 +1,6 @@
 def turn_count(array)
   counter = 0
-  if array.each do |turn| 
+  array.each do |turn| 
     if  #{turn} == "X" && "O"
       counter += 1
     end
