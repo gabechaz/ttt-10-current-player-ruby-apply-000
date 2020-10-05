@@ -4,7 +4,7 @@ def turn_count(array)
     if #{turn} == "X" || "O"
       counter += 1
     else
-      counter -= 1
+      counter = counter - 1
     
     end
     
