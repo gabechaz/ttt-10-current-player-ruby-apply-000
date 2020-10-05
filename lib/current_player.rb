@@ -8,5 +8,5 @@ def turn_count(array)
     end
     
   end
-  
+  return counter
 end
