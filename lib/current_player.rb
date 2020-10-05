@@ -3,8 +3,10 @@ def turn_count(array)
   array.each do |turn|
     if #{turn} == "X" || "O"
       counter += 1
-      return counter
+      
     
     end
+    
   end
+  
 end
